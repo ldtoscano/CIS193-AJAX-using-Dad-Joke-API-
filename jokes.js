@@ -54,3 +54,5 @@ function randomItemFromArray(arr, not) {
 }
 
 jokeButton.addEventListener("click", handleClick);
+
+
